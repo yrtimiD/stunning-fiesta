@@ -1,7 +1,7 @@
 {
 	"folders": [
-		{ "path": "../project-b" },
-		{ "path": "../common" }
+		{ "path": "../../project-b" },
+		{ "path": "../../common" }
 	],
 	"settings": {}
 }
